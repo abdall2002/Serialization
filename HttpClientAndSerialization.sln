@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAXMLSerialization", "CAXML
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CABinarySerialization", "CABinarySerialization\CABinarySerialization.csproj", "{D5EBA61D-1790-4C02-BE28-A4F3D9C0B5D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAJsonSerializer", "CAJsonSerializer\CAJsonSerializer.csproj", "{17BF65DC-3CFC-48F6-B96E-3038EBD542C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D5EBA61D-1790-4C02-BE28-A4F3D9C0B5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5EBA61D-1790-4C02-BE28-A4F3D9C0B5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5EBA61D-1790-4C02-BE28-A4F3D9C0B5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BF65DC-3CFC-48F6-B96E-3038EBD542C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BF65DC-3CFC-48F6-B96E-3038EBD542C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BF65DC-3CFC-48F6-B96E-3038EBD542C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BF65DC-3CFC-48F6-B96E-3038EBD542C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
