@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\bin\Debug\net7.0\CAXMLSerialization.exe
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\bin\Debug\net7.0\CAXMLSerialization.deps.json
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\bin\Debug\net7.0\CAXMLSerialization.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\bin\Debug\net7.0\CAXMLSerialization.dll
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\bin\Debug\net7.0\CAXMLSerialization.pdb
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.dll
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\refint\CAXMLSerialization.dll
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.pdb
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\ref\CAXMLSerialization.dll
