@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\obj\Debug\net7.0\CAHttpClientJson.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\obj\Debug\net7.0\CAHttpClientJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\obj\Debug\net7.0\CAHttpClientJson.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\obj\Debug\net7.0\CAHttpClientJson.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\obj\Debug\net7.0\CAHttpClientJson.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\bin\Debug\net7.0\CAHttpClientJson.exe
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\bin\Debug\net7.0\CAHttpClientJson.deps.json
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\bin\Debug\net7.0\CAHttpClientJson.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\bin\Debug\net7.0\CAHttpClientJson.dll
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\bin\Debug\net7.0\CAHttpClientJson.pdb
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\obj\Debug\net7.0\CAHttpClientJson.dll
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\obj\Debug\net7.0\refint\CAHttpClientJson.dll
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\obj\Debug\net7.0\CAHttpClientJson.pdb
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\obj\Debug\net7.0\CAHttpClientJson.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\HttpClientAndSerialization\CAHttpClientJson\obj\Debug\net7.0\ref\CAHttpClientJson.dll
