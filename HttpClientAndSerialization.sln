@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAXMLSerialization", "CAXMLSerialization\CAXMLSerialization.csproj", "{C3C01C7B-B8C7-4CFD-96B7-C2D8B84036B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CABinarySerialization", "CABinarySerialization\CABinarySerialization.csproj", "{D5EBA61D-1790-4C02-BE28-A4F3D9C0B5D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C3C01C7B-B8C7-4CFD-96B7-C2D8B84036B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3C01C7B-B8C7-4CFD-96B7-C2D8B84036B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3C01C7B-B8C7-4CFD-96B7-C2D8B84036B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5EBA61D-1790-4C02-BE28-A4F3D9C0B5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5EBA61D-1790-4C02-BE28-A4F3D9C0B5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5EBA61D-1790-4C02-BE28-A4F3D9C0B5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5EBA61D-1790-4C02-BE28-A4F3D9C0B5D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
