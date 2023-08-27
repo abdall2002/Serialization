@@ -17,6 +17,11 @@ var e1 = new Employee
 var xmlContent = SerializeToXmlString(e1);
 Console.WriteLine(xmlContent);
 File.WriteAllText("xmlDocument.xml", xmlContent);
+
+var xmlContent2 = File.ReadAllText("xmlDocument.xml");
+Employee e2 = DeserializeFromXmlString(xmlContent2);
+
+/* Serialization */
 static string SerializeToXmlString(Employee e1)
 {
     var result = "";
@@ -30,4 +35,15 @@ static string SerializeToXmlString(Employee e1)
         }
     }
     return result;
+}
+/* Deserialization */
+static Employee DeserializeFromXmlString(string xmlContent)
+{
+    Employee employee = null;
+    var xmlSerializer = new XmlSerializer(typeof(Employee));
+    using (TextReader reader = new StringReader(xmlContent))
+    {
+        employee = xmlSerializer.Deserialize(reader) as Employee;
+    }
+    return employee;
 }
