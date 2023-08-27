@@ -16,13 +16,14 @@ var e1 = new Employee
 
 var xmlContent = SerializeToXmlString(e1);
 Console.WriteLine(xmlContent);
+File.WriteAllText("xmlDocument.xml", xmlContent);
 static string SerializeToXmlString(Employee e1)
 {
     var result = "";
     var xmlSerializer = new XmlSerializer(e1.GetType());
     using (var sw = new StringWriter())
     {
-        using (var writer = XmlWriter.Create(sw, new XmlWriterSettings { Indent = true }))
+        using (var writer = XmlWriter.Create(sw, new XmlWriterSettings { Indent = false }))
         {
             xmlSerializer.Serialize(writer, e1);
             result = sw.ToString();
